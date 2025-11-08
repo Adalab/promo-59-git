@@ -11,3 +11,6 @@ git pull
 
 ##  Conflictos
 - Cuando estamos varias cambiando sobre el mismo fichero a la misma vez. 
+
+
+## esto es una nuevo cmbio
